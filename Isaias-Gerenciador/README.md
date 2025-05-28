@@ -1,6 +1,6 @@
 # Gerenciador de Finanças Pessoais
 ## primeiramente precisamos fazer uma instalação 
-pip install matplotlib
+pip install matplotlib tk
 ## codigo de teste
 python debug.py
 ## resultado: saldo: 450 
